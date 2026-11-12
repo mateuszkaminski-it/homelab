@@ -1,0 +1,6 @@
+# klucze i sekrety - nigdy do repo
+id_ed25519
+id_github
+*.key
+*.pem
+.env
